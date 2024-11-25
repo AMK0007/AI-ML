@@ -1,6 +1,6 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+train: "C:/Users/ahmed/OneDrive/Desktop/Folio/AI-ML/Licence-plate-detection/train/images"
+val: "C:/Users/ahmed/OneDrive/Desktop/Folio/AI-ML/Licence-plate-detection/val/images"
+test: "C:/Users/ahmed/OneDrive/Desktop/Folio/AI-ML/Licence-plate-detection/test/images"
 
 nc: 2
 names: ['license-plate', 'vehicle']
